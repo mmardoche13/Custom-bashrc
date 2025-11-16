@@ -20,5 +20,5 @@ Ce fichier permet de :
 
 1. **Cloner le dépôt** ou télécharger le fichier `bashrc_personnalise.sh` :
 ```bash
-git clone https://github.com/ton-utilisateur/bashrc-cybersec.git
+git clone https://github.com/mmardoche13/bashrc-cybersec.git
 cd bashrc-cybersec
